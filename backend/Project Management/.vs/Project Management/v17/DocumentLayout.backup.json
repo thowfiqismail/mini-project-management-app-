@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thowf\\source\\repos\\Project Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\project management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\project management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\hubs\\projecthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\hubs\\projecthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\project management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\project management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|c:\\users\\thowf\\source\\repos\\project management\\project management\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84076690-2F45-4EE4-AD84-D4A96AB57B5F}|Project Management\\Project Management.csproj|solutionrelative:project management\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Project Management\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\Notification.cs",
+              "RelativeToolTip": "Project Management\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:26:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Project Management\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Project Management\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowGsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:01:47.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Program.cs",
+              "RelativeDocumentMoniker": "Project Management\\Program.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Program.cs",
+              "RelativeToolTip": "Project Management\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:44:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Project Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\appsettings.json",
+              "RelativeToolTip": "Project Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T15:53:50.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project Management\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project Management\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:49:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project Management",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Project Management.csproj",
+              "RelativeDocumentMoniker": "Project Management\\Project Management.csproj",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Project Management.csproj",
+              "RelativeToolTip": "Project Management\\Project Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T15:46:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectHub.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Hubs\\ProjectHub.cs",
+              "RelativeDocumentMoniker": "Project Management\\Hubs\\ProjectHub.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Hubs\\ProjectHub.cs",
+              "RelativeToolTip": "Project Management\\Hubs\\ProjectHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:58:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project Management\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project Management\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:00:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\SmsService.cs",
+              "RelativeDocumentMoniker": "Project Management\\SmsService.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\SmsService.cs",
+              "RelativeToolTip": "Project Management\\SmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:11:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project Management\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\User.cs",
+              "RelativeToolTip": "Project Management\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:47:58.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Project Management\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Models\\Project.cs",
+              "RelativeToolTip": "Project Management\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:48:46.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project Management.http",
+              "DocumentMoniker": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Project Management.http",
+              "RelativeDocumentMoniker": "Project Management\\Project Management.http",
+              "ToolTip": "C:\\Users\\thowf\\source\\repos\\Project Management\\Project Management\\Project Management.http",
+              "RelativeToolTip": "Project Management\\Project Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-29T16:09:17.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

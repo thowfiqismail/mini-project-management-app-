@@ -1,0 +1,32 @@
+# -------------------------------
+# Ignore .NET build outputs
+# -------------------------------
+backend/Project Management/bin/
+backend/Project Management/obj/
+
+# -------------------------------
+# Ignore React node modules & build
+# -------------------------------
+client/project-management-client/node_modules/
+client/project-management-client/build/
+
+# -------------------------------
+# OS files & IDEs
+# -------------------------------
+.vscode/
+*.DS_Store
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Log files
+*.log
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (if any)
+.env
