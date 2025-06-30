@@ -48,3 +48,4 @@ Thumbs.db
 # Ignore test output
 # ------------------------------------------------------------------------------
 TestResults/
+"backend/Project Management/Project Management/bin/Debug/net8.0/appsettings.json" 
