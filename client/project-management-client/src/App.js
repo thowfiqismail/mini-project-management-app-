@@ -14,7 +14,7 @@ function App() {
           path="/product"
           element={user ? <ProjectList /> : <Navigate to="/login" />}
         />
-        <Route path="/" element={<Navigate to="/product" />} />
+        <Route path="/" element={<Navigate to="/login" />} />
       </Routes>
     </BrowserRouter>
   );
