@@ -11,14 +11,13 @@ builder.Services.AddSignalR();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// ✅ Register your SMS Service
+
 builder.Services.AddSingleton<SmsService>();
 
-// ✅ Add Swagger
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// ✅ ✅ ✅ Add CORS policy
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
@@ -32,10 +31,10 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// ✅ Apply CORS middleware **before other middlewares**
+
 app.UseCors("AllowReactApp");
 
-// Swagger
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
