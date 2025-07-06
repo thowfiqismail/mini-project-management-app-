@@ -7,12 +7,6 @@ pipeline {
   }
 
   stages {
-    stage('Clone Repo') {
-      steps {
-        git 'https://github.com/thowfiqismail/mini-project-management-app.git'
-      }
-    }
-
     stage('Build Docker Image') {
       steps {
         script {
